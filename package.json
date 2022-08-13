@@ -1,6 +1,6 @@
 {
   "name": "@davidmz/sharec-ts-library-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple configuration for TS library development in VSCode",
   "keywords": [],
   "author": "David Mzareulyan <david@hiero.ru>",
